@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/git@github.com:EmRam27/reactPract.git/static/css/main.a617e044.chunk.css",
-    "main.js": "/git@github.com:EmRam27/reactPract.git/static/js/main.21a670d9.chunk.js",
-    "main.js.map": "/git@github.com:EmRam27/reactPract.git/static/js/main.21a670d9.chunk.js.map",
-    "runtime-main.js": "/git@github.com:EmRam27/reactPract.git/static/js/runtime-main.d83b090d.js",
-    "runtime-main.js.map": "/git@github.com:EmRam27/reactPract.git/static/js/runtime-main.d83b090d.js.map",
-    "static/js/2.9d40b26f.chunk.js": "/git@github.com:EmRam27/reactPract.git/static/js/2.9d40b26f.chunk.js",
-    "static/js/2.9d40b26f.chunk.js.map": "/git@github.com:EmRam27/reactPract.git/static/js/2.9d40b26f.chunk.js.map",
-    "static/js/3.441d079a.chunk.js": "/git@github.com:EmRam27/reactPract.git/static/js/3.441d079a.chunk.js",
-    "static/js/3.441d079a.chunk.js.map": "/git@github.com:EmRam27/reactPract.git/static/js/3.441d079a.chunk.js.map",
+    "main.js": "/git@github.com:EmRam27/reactPract.git/static/js/main.f4a8caf8.chunk.js",
+    "main.js.map": "/git@github.com:EmRam27/reactPract.git/static/js/main.f4a8caf8.chunk.js.map",
+    "runtime-main.js": "/git@github.com:EmRam27/reactPract.git/static/js/runtime-main.cacbe2ba.js",
+    "runtime-main.js.map": "/git@github.com:EmRam27/reactPract.git/static/js/runtime-main.cacbe2ba.js.map",
+    "static/js/2.318b84ba.chunk.js": "/git@github.com:EmRam27/reactPract.git/static/js/2.318b84ba.chunk.js",
+    "static/js/2.318b84ba.chunk.js.map": "/git@github.com:EmRam27/reactPract.git/static/js/2.318b84ba.chunk.js.map",
+    "static/js/3.83359fcc.chunk.js": "/git@github.com:EmRam27/reactPract.git/static/js/3.83359fcc.chunk.js",
+    "static/js/3.83359fcc.chunk.js.map": "/git@github.com:EmRam27/reactPract.git/static/js/3.83359fcc.chunk.js.map",
     "index.html": "/git@github.com:EmRam27/reactPract.git/index.html",
     "static/css/main.a617e044.chunk.css.map": "/git@github.com:EmRam27/reactPract.git/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.9d40b26f.chunk.js.LICENSE.txt": "/git@github.com:EmRam27/reactPract.git/static/js/2.9d40b26f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/git@github.com:EmRam27/reactPract.git/static/media/logo.6ce24c58.svg"
+    "static/js/2.318b84ba.chunk.js.LICENSE.txt": "/git@github.com:EmRam27/reactPract.git/static/js/2.318b84ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d83b090d.js",
-    "static/js/2.9d40b26f.chunk.js",
+    "static/js/runtime-main.cacbe2ba.js",
+    "static/js/2.318b84ba.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.21a670d9.chunk.js"
+    "static/js/main.f4a8caf8.chunk.js"
   ]
 }
